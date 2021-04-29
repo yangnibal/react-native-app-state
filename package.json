@@ -1,0 +1,8 @@
+{
+  "name": "react-native-app-state",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yangnibal/react-native-app-state.git",
+  "author": "yangnibal <icecube9670@gmail.com>",
+  "license": "MIT"
+}
